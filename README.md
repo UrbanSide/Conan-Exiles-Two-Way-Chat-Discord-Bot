@@ -9,5 +9,6 @@ EN
 Rcon.php - file where "NodeBot\main.js" goes to send data to Rcon
 NodeBot\main.js - the bot itself that processes messages from the chat in the discord to the game.
 
-Screens
+Screens:
+
 ![image](https://github.com/UrbanSide/Conan-Exiles-Two-Way-Chat-Discord-Bot/assets/26259129/329d3b28-6b8c-4468-8c0e-e2d683523be4)
