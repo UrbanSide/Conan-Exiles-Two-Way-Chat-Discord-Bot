@@ -10,6 +10,7 @@ Rcon.php - file where "NodeBot\main.js" goes to send data to Rcon
 NodeBot\main.js - the bot itself that processes messages from the chat in the discord to the game.
 
 Для работы нужен мод Pippi.
+
 For working need Pippi mod.
 
 Screens:
